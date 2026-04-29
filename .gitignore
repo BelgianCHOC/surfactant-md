@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PDFs (large / copyrighted — not committed to repo)
+*.pdf
+
+# Windows zone identifier files
+*.pdf:Zone.Identifier
+*:Zone.Identifier
+
+# Streamlit cache
+.streamlit/
